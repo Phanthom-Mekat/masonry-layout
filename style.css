@@ -1,0 +1,14 @@
+body{
+    background-color: #1e1e1e;
+
+    margin: 15px;
+    padding: 0;
+}
+img{
+    width: 100%;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+.mother{
+    columns: 300px; ;
+}
